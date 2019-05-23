@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cff6454a8bcce9c4bad95a4ab26bef37
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - canvasScene: {fileID: 4213668802501519474, guid: 7164699f8ea864f40a8b4922416b37f3,
+      type: 3}
+  - attackCard: {fileID: 5943089372964128276, guid: 30852e57210bdd14e9a3e70f50fbb7b1,
+      type: 3}
+  - defendCard: {fileID: 5943089372964128276, guid: d6d79d757a5843b41aaa9a0490a8c848,
+      type: 3}
+  - lightCard: {fileID: 5943089372964128276, guid: 683200b8c13b78b4da4d0ed569851733,
+      type: 3}
+  - lootCard: {fileID: 5943089372964128276, guid: 36fe25d4e8ba4974581d4a776476cf01,
+      type: 3}
+  - magicCard: {fileID: 5943089372964128276, guid: d7cb93cc18cfaa542a5a869471c23286,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

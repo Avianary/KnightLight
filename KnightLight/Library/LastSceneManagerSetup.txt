@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/CombatFiles/Scenes/Menu screen test.unity
+  isLoaded: 1
+  isActive: 1
